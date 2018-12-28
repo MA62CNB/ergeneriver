@@ -35,7 +35,7 @@ Takımı İm Park Eğitim Bilişim
 Ozan KÜÇÜKUSTA Yönetmen / Sanat Yönetmeni İm Park Eğitim Bilişim Limited Şirketi
 Cengizhan TOPRAKSOY Animasyon / Post Prodüksiyon / Kurgu İm Park Eğitim Bilişim Limited Şirketi
 Mustafa AÇIKGÖZ Öğretim Materyali Geliştirme Koordinatörü İm Park Eğitim Bilişim Limited Şirketi
-Ömer CANBEK Programlama / Player Geliştirme İm Park Eğitim Bilişim Limited Şirketi
+Ömer Canbek ÖNER Programlama / Player Geliştirme İm Park Eğitim Bilişim Limited Şirketi
 Selahattin TOĞAY İletişim Koordinatörü İm Park Eğitim Bilişim Limited Şirketi
 Ömer Çağlar ÖNER Seslendirmen İm Park Eğitim Bilişim Limited Şirketi
 Bahar ŞAHİNSOY Seslendirmen İm Park Eğitim Bilişim Limited Şirketi
