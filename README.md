@@ -37,7 +37,7 @@ Cengizhan TOPRAKSOY Animasyon / Post Prodüksiyon / Kurgu İm Park Eğitim Bili�
 Mustafa AÇIKGÖZ Öğretim Materyali Geliştirme Koordinatörü İm Park Eğitim Bilişim Limited Şirketi
 Ömer Canbek ÖNER Programlama / Player Geliştirme İm Park Eğitim Bilişim Limited Şirketi
 Selahattin TOĞAY İletişim Koordinatörü İm Park Eğitim Bilişim Limited Şirketi
-Ömer Çağlar ÖNER Seslendirmen İm Park Eğitim Bilişim Limited Şirketi
+Ömer ÇAĞLAR Seslendirmen İm Park Eğitim Bilişim Limited Şirketi
 Bahar ŞAHİNSOY Seslendirmen İm Park Eğitim Bilişim Limited Şirketi
 Müzik Dexter Britain
 İletişim ve Teknik Destek
