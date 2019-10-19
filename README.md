@@ -30,9 +30,7 @@ Prof. Dr. Gürcan GÜRGEN Ekosistem Alan Koordinatörü Ankara Üniversitesi Eğ
 Fakültesi
 Yrd.Doç.Dr. Onur ÇALIŞKAN Eğitsel İçerik Metin Yazarı Ankara Üniversitesi Eğitim Bilimleri
 Fakültesi
-Öğretim Materyali Geliştirme
-
-Takımı İm Park Eğitim Bilişim
+Öğretim Materyali Geliştirme Takımı İm Park Eğitim Bilişim
 Ozan KÜÇÜKUSTA Yönetmen / Sanat Yönetmeni İm Park Eğitim Bilişim Limited Şirketi
 Cengizhan TOPRAKSOY Animasyon / Post Prodüksiyon / Kurgu İm Park Eğitim Bilişim Limited Şirketi
 Mustafa AÇIKGÖZ Öğretim Materyali Geliştirme Koordinatörü İm Park Eğitim Bilişim Limited Şirketi
